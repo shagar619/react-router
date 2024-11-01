@@ -1,0 +1,7 @@
+nav a.active{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
